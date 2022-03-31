@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Blubird Interactive.
+- 🌱 I’m currently learning nodejs
+- 😄 Pronouns: He/His
+
 <p align="left">
   <a href="https://github.com/ialaminpro">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ialaminpro&show_icons=true&theme=dracula&hide_border=true" alt="Al Amin's github stats" />

@@ -153,6 +153,7 @@ Higher Secondary Certificate (2010 - 2012)
 
 ## Online Profiles
 
+- [LinkedIn](https://linkedin.com/in/ialaminpro)
 - [Medium](https://medium.com/@ialamin.pro)
 - [Dev](https://dev.to/ialaminpro)
 - [Reddit](https://www.reddit.com/user/ialaminpro/)
@@ -161,6 +162,8 @@ Higher Secondary Certificate (2010 - 2012)
 - [LeetCode](https://leetcode.com/u/ialaminpro)
 - [BeeCrowd](https://judge.beecrowd.com/en/profile/13674)
 - [Xing](https://www.xing.com/profile/Al_Amin25)
+- [Facebook](https://www.facebook.com/TechTalesByAlAmin)
+- [YouTube](https://www.youtube.com/@TechTalesByAlAmin)
 
 ## Additional Information
 

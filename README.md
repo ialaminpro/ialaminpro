@@ -155,6 +155,7 @@ Higher Secondary Certificate (2010 - 2012)
 
 - [Medium](https://medium.com/@ialamin.pro)
 - [Dev](https://dev.to/ialaminpro)
+- [Reddit](https://www.reddit.com/user/ialaminpro/)
 - [uHunt](https://uhunt.onlinejudge.org/id/364148)
 - [LightOJ](https://lightoj.com/user/ialamin.pro)
 - [LeetCode](https://leetcode.com/u/ialaminpro)

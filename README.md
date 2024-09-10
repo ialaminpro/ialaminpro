@@ -153,6 +153,7 @@ Higher Secondary Certificate (2010 - 2012)
 
 ## Online Profiles
 
+- [Medium](https://medium.com/@ialamin.pro)
 - [Dev](https://dev.to/ialaminpro)
 - [uHunt](https://uhunt.onlinejudge.org/id/364148)
 - [LightOJ](https://lightoj.com/user/ialamin.pro)

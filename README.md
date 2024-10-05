@@ -27,8 +27,8 @@
 - Identifying and optimizing software infrastructure bottlenecks for better performance and resource utilization.
 
 **BluBird Interactive Ltd.**  
-*Software Engineer* (Apr 2021 - Oct 2022)  
-*Programmer* (Mar 2018 - Sep 2018)  
+*Software Engineer* (May 2020 - Sep 2022)  
+*Software Programmer* (Oct 2019 - Apr 2020)  
 - Leading technical teams and managing projects, ensuring their efficient execution.
 - Developing robust, scalable, and performant web applications utilizing a diverse tech stack including PHP, Laravel,
 NodeJS, various frontend frameworks (React,js, Vue.js), and databases (MySQL, MongoDB).
@@ -37,22 +37,14 @@ NodeJS, various frontend frameworks (React,js, Vue.js), and databases (MySQL, Mo
 solutions to facilitate secure and convenient online transactions.
 - Refactoring legacy codebases to improve maintainability and performance.
 
-**Edorpon Software Co.**  
-*Project Manager* (Apr 2020 - Mar 2021)  
-*Team Lead* (Oct 2019 - Mar 2020)  
-- Leading the technical team and managing the project
-- Developed software using PHP and Laravel and React with MySQL databases to meet specific client requirements.
-- Maintained server infrastructure using AWS.
-- Defined project requirements and developed clear work schedules for the development team.
-
 **Edu Smart Ltd.**  
-*Software Engineer* (Oct 2018 - Sep 2019)  
+*Software Engineer* (May 2018 - Sep 2019)  
 - Developed web applications using PHP (both raw and Laravel framework) with MySQL databases.
 - Designed and implemented RESTful APIs that scale to meet growing demands.
 - Integrated third-party libraries to enhance functionality and contributed to open-source libraries and SDKs.
 
 **ICT Layer Ltd.**  
-*Software Engineer* (May 2015 - Sep 2017)  
+*Software Engineer* (Nov 2016 - Apr 2018)  
 - Developing software in PHP (Framework: CodeIgniter), with both Oracle and MySQL Database.
 - Contributed to the development of new features and modules for enterprise software (HRMS, SCMS, SaaS),
 streamlining processes and increasing user satisfaction.
@@ -135,13 +127,12 @@ streamlining processes and increasing user satisfaction.
 
 ## Technical Skills
 
-- **Backend:** PHP, Laravel, CodeIgniter, Symfony, NodeJS, ExpressJS, Python
-- **Frontend:** JS, React, VueJS, Angular, Nuxt, Backbone.js, TypeScript, CoffeeScript, jQuery, Ajax
-- **Database:** MySQL, MongoDB, PostgreSQL, Oracle 11g, LDAP, Redis, GraphQL
-- **DevOps & Cloud:** AWS (EC2, RDS, SNS, S3, CodeBuild, CodeCommit, CodePipeline, CloudFront, DynamoDB, CloudFormation, CloudWatch), Cloudflare, DigitalOcean, Docker, Kubernete, Jenkins, Terraform
+- **Backend:** PHP, Laravel, CodeIgniter, Symfony
+- **Frontend:** JS, React, VueJS, Backbone.js, TypeScript, CoffeeScript, jQuery, Ajax
+- **Database:** MySQL, LDAP, Redis
+- **DevOps & Cloud:** AWS (EC2, RDS, SNS, S3, CodeBuild, CodeCommit, CodePipeline, CloudFront, DynamoDB, CloudFormation, CloudWatch), Cloudflare, DigitalOcean, Docker
 - **Testing:** PHPUnit, Apache JMeter
 - **Development Tools:** Postman, Git, Jira, Slack, Asana, Trello, Bitbucket, Confluence, OpenProject
-- **Additional Technologies: Lisk Blockchain, System Design, Microservice architecture, Design patterns, Apache Solr, Firebase, Kafka, SQS, RabbitMQ, Swagger, Backpack
 
 ## Education
 
@@ -171,12 +162,14 @@ Higher Secondary Certificate (2010 - 2012)
 - **Languages:** Fluent in Bengali (native), English
 - **Certifications:** Code Warriors Achievement (2015), Mobile Application Development (2014)
 - **Awards:** Led teams in coding competitions: 2nd runner-up at National Hackathon 2016 (agriculture app); 7th at We Can-Daffodil Apps Fellowship (women's safety app); and participated in ACM-ICPC Asia Regional (2014).
+- **Volunteering:** Vice President of Source Of Light Street children to provide financial and humanitarian assistance to and cooperate with them to be self-reliant.
 
 ## Interests
 
 - Expanding knowledge of programming languages
 - Enhancing DevOps skills with automation tools and container orchestration
 - Staying up-to-date with the latest advancements in software development
+- Playing a sport (e.g., Cricket, Football)
 
 Feel free to connect!
 

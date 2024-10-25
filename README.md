@@ -22,37 +22,60 @@
 **OB//CC Online Business & Community Communication GmbH & Co. KG**  
 *Software Infrastructure Engineer* (Jul 2023 - Present)  
 *Software Developer* (Oct 2022 - Jul 2023)  
-- Building microservices using clean, maintainable, and testable code primarily within the PHP and Laravel.
-- Developing software architecture and infrastructure to ensure scalability, performance, and reliability.
-- Identifying and optimizing software infrastructure bottlenecks for better performance and resource utilization.
+- Designed & developed scalable microservices, improving system performance & handling high traffic loads.
+- Built & optimized high-performance APIs, enhancing scalability and handling millions of records efficiently.
+- Contributed to key projects such as Landkreis Fulda App API, ProEducation, and BP-CCS, driving performance improvements and enhancing user engagement.
 
 **BluBird Interactive Ltd.**  
 *Software Engineer* (May 2020 - Sep 2022)  
 *Software Programmer* (Oct 2019 - Apr 2020)  
-- Leading technical teams and managing projects, ensuring their efficient execution.
-- Developing robust, scalable, and performant web applications utilizing a diverse tech stack including PHP, Laravel,
-NodeJS, various frontend frameworks (React,js, Vue.js), and databases (MySQL, MongoDB).
-- Automating software delivery, testing, and deployment through CI/CD pipelines.
-- Integrated various payment gateways including PayPal, Stripe, GPay, Apple Pay, Authorize.Net, and local payment
-solutions to facilitate secure and convenient online transactions.
+- Led technical teams on 4+ projects, delivering ahead of deadlines by an average of 30%
+- Developing robust, scalable, and performant web applications utilizing a diverse tech stack including PHP,Laravel, NodeJS, various frontend frameworks (React,js, Vue.js), and databases (MySQL, MongoDB).
+- Integrated various payment gateways including PayPal, Stripe, GPay, Apple Pay, Authorize.Net, and local payment solutions to facilitate secure and convenient online transactions.
 - Refactoring legacy codebases to improve maintainability and performance.
 
 **Edu Smart Ltd.**  
 *Software Engineer* (May 2018 - Sep 2019)  
-- Developed web applications using PHP (both raw and Laravel framework) with MySQL databases.
-- Designed and implemented RESTful APIs that scale to meet growing demands.
+- Developed an EMIS platform managing 200+ educational institutions and over 0.7 million students.
+- Designed scalable RESTful APIs, handling 1 million+ monthly requests, increasing reliability by 25%.
 - Integrated third-party libraries to enhance functionality and contributed to open-source libraries and SDKs.
 
 **ICT Layer Ltd.**  
 *Software Engineer* (Nov 2016 - Apr 2018)  
 - Developing software in PHP (Framework: CodeIgniter), with both Oracle and MySQL Database.
-- Contributed to the development of new features and modules for enterprise software (HRMS, SCMS, SaaS),
-streamlining processes and increasing user satisfaction.
+- Contributed to the development of new features and modules for enterprise software (HRMS, SCMS, SaaS)
 - Supporting existing software products and making progress on new products.
 
 ## Highlighted Projects
 
-### 01. [**QuoDB**](https://www.quodb.com) - Movie Quote Search Engine
+### 01. [**Landkreis Fulda App API Development**](https://www.landkreis-fulda.de/die-app-landkreis-fulda)
+#### Technologies: Laravel, MySQL
+#### Role: Backend Developer
+##### Key Achievements:
+* Developed API for this app, managing a large database with over 10M+ records.
+* Delivered 80,000+ daily notifications (push, email, in-app).
+* Built a queue system processing 1,000+ jobs/hour under heavy loads.
+* Optimized scalability, improving response times by 50% for 30,000+ users.
+
+### 02. [**ProEducation (Training System: Admin Dashboard & API Development)**](http://www.owoc.io/proeducation)
+#### Technologies: Laravel, MySQL
+#### Role: Backend Developer
+##### Key Achievements:
+* Developed admin dashboard and REST API for a customizable online training system used by high-profile clients BP, TenneT, and CDMSmith.
+* Built scalable solutions for managing 100+ courses, participant tracking, and automated compliance.
+* Collaborated with cross-functional teams to ensure seamless integration between the app & backend system.
+* Improved performance by 30%, reduced server load by 40%, and enhanced API response times by 25%.
+
+### 03. [**BP-CCS (Admin Dashboard & API Development)**](https://apps.apple.com/de/app/bp-ccs/id1534882717)
+#### Technologies: Laravel, MySQL, LDAP
+#### Role: Backend Developer
+##### Key Achievements:
+* Developed the admin dashboard and REST API for the BP-CCS mobile app, facilitating carbon capture and storage (CCS) project management.
+* Integrated multiple notification types (push, email, in-app) to enhance user engagement and communication.
+* Developed a robust queue system to efficiently handle and process high volumes of background jobs, ensuring smooth operations under heavy loads.
+* Collaborated closely with the front-end team for seamless API integration across mobile and web platforms.
+
+### 04. [**QuoDB**](https://www.quodb.com) - Movie Quote Search Engine
 #### Website: https://www.quodb.com
 ##### Description: Developed and launched a comprehensive movie/series quote search engine used by movie enthusiasts, writers, and educators.
 ##### Key Achievements:
@@ -62,7 +85,7 @@ streamlining processes and increasing user satisfaction.
   
 #### Technical Skills: PHP, Restler, Backbone js, Coffeescript, Solr Search engine, and PostgreSQL
 
-### 02. [**Vidcredible**](https://www.vidcredible.com) - All-in-One Video Maker Platform with SEO and Social Sharing
+### 05. [**Vidcredible**](https://www.vidcredible.com) - All-in-One Video Maker Platform with SEO and Social Sharing
 #### Website: [https://www.vidcredible.com](https://www.vidcredible.com)
 ##### Description: Developed and launched Vidcredible, a web-based platform empowering users to create engaging videos with music and pictures.
 ##### Key Achievements:
@@ -72,7 +95,7 @@ streamlining processes and increasing user satisfaction.
     
 #### Technical Skills: PHP, Laravel, MySQL, JavaScript, jQuery, Ajax, Social media platforms SDK.
 
-### 03. [**Moving with Class**](https://movingwithclass.com) - Full-Service Moving Management Software
+### 06. [**Moving with Class**](https://movingwithclass.com) - Full-Service Moving Management Software
 #### Website: https://movingwithclass.com
 ##### Description: Developed and launched a comprehensive web application to automate the moving process for home and office relocations.
 ##### Key Achievements:
@@ -82,7 +105,7 @@ streamlining processes and increasing user satisfaction.
   
 #### Technical Skills: PHP, Laravel, MySQL, MSSQL, JavaScript, jQuery, Ajax
 
-### 04. [**Embroidery Design Shop**](https://embdesignshop.com) - E-commerce Management System
+### 07. [**Embroidery Design Shop**](https://embdesignshop.com) - E-commerce Management System
 #### Website: https://embdesignshop.com
 ##### Description: Developed and launched a comprehensive e-commerce platform for managing an online embroidery design business.
 ##### Key Achievements:
@@ -93,7 +116,7 @@ streamlining processes and increasing user satisfaction.
   
 #### Technical Skills: PHP, Laravel, MySQL, JavaScript, jQuery, Ajax
 
-### 05. [**EduPay**](https://edupay.edu-smart.info) - Secure Online Tuition Fee Payment System
+### 08. [**EduPay**](https://edupay.edu-smart.info) - Secure Online Tuition Fee Payment System
 #### Website: https://edupay.edu-smart.info
 ##### Description: Developed and launched a secure online platform for educational institutions to collect tuition fees seamlessly.
 ##### Key Achievements:
@@ -103,7 +126,7 @@ streamlining processes and increasing user satisfaction.
   
 #### Technical Skills: PHP, Laravel, MySQL, Payment Gateway SDK, JavaScript, jQuery, Ajax
 
-### 06. [**Resource Packs**](https://resourcepacks24.de) - Minecraft PvP Resource Pack Sharing Platform
+### 09. [**Resource Packs**](https://resourcepacks24.de) - Minecraft PvP Resource Pack Sharing Platform
 #### Website: https://resourcepacks24.de
 ##### Description: Developed and launched a platform for sharing and discovering custom Minecraft PvP resource packs.
 ##### Key Achievements:
@@ -113,7 +136,7 @@ streamlining processes and increasing user satisfaction.
   
 #### Technical Skills: PHP, Laravel, MySQL, Redis, JavaScript, jQuery, Ajax
 
-### 07. Decentralized Educational Record System
+### 10. Decentralized Educational Record System
 ##### Description: Developed a secure, tamper-proof educational record system using Lisk blockchain technology to streamline record-keeping and enhance data ownership for students.
 ##### Key Achievements:
 * Implemented Decentralized Identifiers (DIDs) for secure student profiles and data ownership.
